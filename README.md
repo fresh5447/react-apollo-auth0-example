@@ -1,4 +1,6 @@
 # react-apollo-auth0-example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/graphcool-examples/react-apollo-auth0-example.svg)](https://greenkeeper.io/)
 ![](http://i.imgur.com/CH44AZF.png)
 
 Try the [hosted version](http://apollo-email.netlify.com).
